@@ -21,5 +21,9 @@
   },
   "dependencies": {
     "vsce": "^2.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/tu-repositorio.git"
   }
 }
