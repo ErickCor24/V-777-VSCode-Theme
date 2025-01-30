@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.96.0"
   },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
@@ -17,5 +18,8 @@
         "path": "./themes/V-777 Dark Theme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }

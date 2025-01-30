@@ -1,5 +1,10 @@
 # V-777 README
 
+# Welcome to my Theme
+
+This thema was inspirated in a Violet Pallete and simple view
+Rate 5 stars and share with yout friends :D
+
 Color pallete use:
 BgEditor: #2d282f
 Comment: #7e7186
