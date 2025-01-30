@@ -1,0 +1,21 @@
+{
+  "name": "V-777",
+  "displayName": "V-777",
+  "description": "V-777",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "V-777 Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/V-777 Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
